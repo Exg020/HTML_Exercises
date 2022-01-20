@@ -1,2 +1,8 @@
 # HTML_Exercises
-Exercises 1-8 and the Sample page 
+Index and the Sample page
+
+index.html
+Exercises 1-8
+
+sample.html
+The Sample Page
